@@ -1,4 +1,4 @@
-# Musicoin App
+# Musicoin App -  An Amazing Project
 
 The official mobile application in development of Musicoin
 
